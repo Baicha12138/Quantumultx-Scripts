@@ -1,3 +1,4 @@
+//在rewrite-local中添加 ^https?:\/\/.*\.(mcdn\.bilivideo\.cn|szbdyd\.com) url script-request-header bilibili-cdn-replace.js
 let cdnDomain;
 
 function replaceP2PUrl(url) {
