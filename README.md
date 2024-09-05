@@ -1,2 +1,2 @@
 # Quantumultx-Scripts
-Personal Quantumultx Scripts
+Personal Quantumultx Rules and Scripts
