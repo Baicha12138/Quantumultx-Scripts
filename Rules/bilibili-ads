@@ -3,3 +3,4 @@ host-keyword, httpdns, reject
 host-keyword, -pcdn-, reject
 host-suffix, pcdn.biliapi.net, reject
 host-suffix, szbdyd.com, reject
+host, data.bilibili.com, reject
